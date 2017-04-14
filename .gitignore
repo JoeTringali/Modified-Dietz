@@ -1,0 +1,4 @@
+.settings/*
+files/output
+*.jar
+target/*
